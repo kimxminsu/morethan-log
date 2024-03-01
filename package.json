@@ -1,10 +1,10 @@
 {
-  "name": "morethan-log",
+  "name": "happy-story",
   "version": "1.3.0",
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "https://github.com/morethanmin/morethan-log.git"
+    "url": "https://github.com/morethanmin/happy-story.git"
   },
   "scripts": {
     "dev": "next dev",
